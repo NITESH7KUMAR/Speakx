@@ -40,6 +40,8 @@
    - The database is connected using the `MongoClient` from `mongodb` package.
    - The application uses `speakx` as the database name and `speakx_questions` as the collection name.
    - Replace MongoDB URI in `.env` if using a remote MongoDB server.
+   - Upload your speakx_questions in database speakx and collection speakx_question
+     connect your Mongodb
 
 ## 4. **API Endpoints**
 
@@ -59,9 +61,5 @@
 # Download the node_modules 
    - npm install
 
-# MongoDb
-   -Upload your speakx_questions in database speakx and collection speakx_question
-   -connect your Mongodb
 
-
-#Download the zip file 
+# Download the zip file 
