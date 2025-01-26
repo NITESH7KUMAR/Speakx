@@ -62,3 +62,6 @@
 # MongoDb
    -Upload your speakx_questions in database speakx and collection speakx_question
    -connect your Mongodb
+
+
+#Download the zip file 
