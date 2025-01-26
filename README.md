@@ -56,3 +56,9 @@
 **Note**:
 - Ensure MongoDB is running locally or replace the connection string in the `.env` file for remote MongoDB access.
 
+# Download the node_modules 
+   - npm install
+
+# MongoDb
+   -Upload your speakx_questions in database speakx and collection speakx_question
+   -connect your Mongodb
